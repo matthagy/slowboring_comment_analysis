@@ -36,3 +36,5 @@ The descriptive stats for total likes per a user are:
 
 
 The details of the analysis are in the Jupyter notebook [analysis.ipynb](./analysis.ipynb).
+
+Comments are fetched using [substack_client](https://github.com/matthagy/substack_client).
